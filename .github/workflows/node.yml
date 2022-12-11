@@ -23,7 +23,7 @@ jobs:
         run: npm run build && npm run export && touch ./out/.nojekyll
 
       - name: Deploy 🚀
-        uses: takeovernat/Portfolio_NT
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: main 
