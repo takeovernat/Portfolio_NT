@@ -1,0 +1,16 @@
+{"name":"Natnael Teshome","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Natnael ","headerTaglineThree":"full stack devloper","headerTaglineFour":" based in Texas.","showCursor":true,
+"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/takeovernat"},{"id":"2","title":"LinkedIn",
+"link":"https://www.linkedin.com/in/natnael-teshome/"},{"id":"3","title":"Twitter","link":""},
+
+{"id":"5","title":"Email","link":"mailto:natnaelteshome9@gmail.com"}],"projects":[{"id":"1",
+"title":"Nate Bank","description":"Web Design | react | tailwindCSS ","imageSrc":"https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg","url":" "},{"id":"6","title":"UrbanU","description":"Design & Development | react | TS | Sanity",
+"imageSrc":"https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg",
+"url":""}],"services":[{"id":"3","title":"Web Design", "description":"Build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."}, 
+
+{"id":"4","title":"Application Consultation","description":"Assistance with Database Creation and Adminstartion, Mobile App development and application deployment."}
+    
+,{"id":"2","title":"Server side administration","description":"Whether your backend services suffer from inefficiency or you're looking to migrate your existing application to the cloud i can help."}],
+"aboutpara":"A motivated individual with in-depth knowledge of languages and development tools ready to provide cleints with design and software engineering they desire.",
+"resume":{"tagline":"👋  I'm a software engineer, Mobile and web application developer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],
+"education":{"universityName":"University X","universityDate":"2016-2020",
+"universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
