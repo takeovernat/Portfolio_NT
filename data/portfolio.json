@@ -1,5 +1,5 @@
 {"name":"Natnael Teshome","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Natnael ","headerTaglineThree":"full stack devloper","headerTaglineFour":" based in Texas.","showCursor":true,
-"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/takeovernat"},{"id":"2","title":"LinkedIn",
+"showBlog":false,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/takeovernat"},{"id":"2","title":"LinkedIn",
 "link":"https://www.linkedin.com/in/natnael-teshome/"},{"id":"3","title":"Twitter","link":""},
 
 {"id":"5","title":"Email","link":"mailto:natnaelteshome9@gmail.com"}],"projects":[{"id":"1",
@@ -11,6 +11,13 @@
     
 ,{"id":"2","title":"Server side administration","description":"Whether your backend services suffer from inefficiency or you're looking to migrate your existing application to the cloud i can help."}],
 "aboutpara":"A motivated individual with in-depth knowledge of languages and development tools ready to provide cleints with design and software engineering they desire.",
-"resume":{"tagline":"👋  I'm a software engineer, Mobile and web application developer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],
-"education":{"universityName":"University X","universityDate":"2016-2020",
-"universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+"resume":{"tagline":"👋  I'm a software engineer, Mobile and web application developer.","description":"I have created multiple mobile and web applications for clients, school and personal projects, as well as have experience working as a software enginner. Well-versed with Javascript and frameworks React/React Native/ Next, C/C++.",
+"experiences":[{"id":"1","dates":"Jun 2022 - Present","type":"Full Time","position":"Software Engineer at Vizio/globallogic","bullets":"Wrote maintainable and extensible code in a team environment,  Design embedded systems software by applying key principles of computer science engineering and mathematical analysis, Tested debugged and released firmware for ARM-based TV chipsets and accompanying applications"},
+{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"Jan 2022 - Jul 2022","type":"Full Time internship","position":"Data/ML Engineer at University of North Texas","bullets":"Increased accuracy of Sequence prediction of the dataset by 19% with a new algorithm, cleaned and improvised input data of 300,000+ rows with data analysis techniques, Identified and corrected errors in a JAVA android application that other interns had trouble fixing"}
+,{"id": "15", "dates": "May 2021 - Nov 2021", "type": "Full-time internship", "position": "System Analyst", "bullets": "Identified over 800 inactive service accounts and revoked their access from TetraPak servers, which resulted in a more secure system, 35% improvement in time complexity and 42% improvement in space complexity of a script that runs every 8 hours by introducing a hashing method, eliminated a security vulnerability by creating an automated script that cross-checks two user databases to identify and report orphaned user accounts" }
+],
+
+"education":{"universityName":"University Of North Texas","universityDate":"2019-2022",
+
+"universityPara":"Computer Science\n 3.5 GPA\nCyber Security and Blockchain Developer certificate signed by NSA and DHS\n"},
+"languages":["Javascript","HTML5","CSS","Python","C/C++,Bash, Java"],"frameworks":["React", "React Native","Typescript","NodeJs"],"others":["SQL","Networking","Operating system and memory"]}}
