@@ -1,23 +1,124 @@
-{"name":"Natnael Teshome","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Natnael ","headerTaglineThree":"full stack devloper","headerTaglineFour":" based in Texas.","showCursor":true,
-"showBlog":false,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/takeovernat"},{"id":"2","title":"LinkedIn",
-"link":"https://www.linkedin.com/in/natnael-teshome/"},{"id":"3","title":"Twitter","link":""},
+{
+  "name": "Natnael Teshome",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Natnael ",
+  "headerTaglineThree": "full stack devloper",
+  "headerTaglineFour": " based in Texas.",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/takeovernat" },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/natnael-teshome/"
+    },
+    { "id": "3", "title": "Twitter", "link": "" },
 
-{"id":"5","title":"Email","link":"mailto:natnaelteshome9@gmail.com"}],"projects":[{"id":"1",
-"title":"Nate Bank","description":"Web Design | react | tailwindCSS ","imageSrc":"https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg","url":" "},{"id":"6","title":"UrbanU","description":"Design & Development | react | TS | Sanity",
-"imageSrc":"https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg",
-"url":""}],"services":[{"id":"3","title":"Web Design", "description":"Build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."}, 
+    { "id": "5", "title": "Email", "link": "mailto:natnaelteshome9@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Bank's Cuisine",
+      "description": "Web Design | react | tailwindCSS ",
+      "imageSrc": "https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg",
+      "url": ""
+    },
+    {
+      "id": "6",
+      "title": "UrbanU",
+      "description": "Design & Development | react | TS | Sanity",
+      "imageSrc": "https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg",
+      "url": ""
+    },
+    {
+      "id": "8",
+      "title": "Resume Builder",
+      "description": "Service | Next | TS | Prima",
+      "imageSrc": "https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg",
+      "url": ""
+    }
+  ],
+  "services": [
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "Build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
 
-{"id":"4","title":"Application Consultation","description":"Assistance with Database Creation and Adminstartion, Mobile App development and application deployment."}
-    
-,{"id":"2","title":"Server side administration","description":"Whether your backend services suffer from inefficiency or you're looking to migrate your existing application to the cloud i can help."}],
-"aboutpara":"A motivated individual with in-depth knowledge of languages and development tools ready to provide cleints with design and software engineering they desire.",
-"resume":{"tagline":"👋  I'm a software engineer, Mobile and web application developer.","description":"I have created multiple mobile and web applications for clients, school and personal projects, as well as have experience working as a software enginner. Well-versed with Javascript and frameworks React/React Native/ Next, C/C++.",
-"experiences":[{"id":"1","dates":"Jun 2022 - Present","type":"Full Time","position":"Software Engineer at Vizio/globallogic","bullets":"Wrote maintainable and extensible code in a team environment,  Design embedded systems software by applying key principles of computer science engineering and mathematical analysis, Tested debugged and released firmware for ARM-based TV chipsets and accompanying applications"},
-{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"Jan 2022 - Jul 2022","type":"Full Time internship","position":"Data/ML Engineer at University of North Texas","bullets":"Increased accuracy of Sequence prediction of the dataset by 19% with a new algorithm, cleaned and improvised input data of 300,000+ rows with data analysis techniques, Identified and corrected errors in a JAVA android application that other interns had trouble fixing"}
-,{"id": "15", "dates": "May 2021 - Nov 2021", "type": "Full-time internship", "position": "System Analyst", "bullets": "Identified over 800 inactive service accounts and revoked their access from TetraPak servers, which resulted in a more secure system, 35% improvement in time complexity and 42% improvement in space complexity of a script that runs every 8 hours by introducing a hashing method, eliminated a security vulnerability by creating an automated script that cross-checks two user databases to identify and report orphaned user accounts" }
-],
+    {
+      "id": "4",
+      "title": "Application Consultation",
+      "description": "Assistance with Database Creation and Adminstartion, Mobile App development and application deployment."
+    },
 
-"education":{"universityName":"University Of North Texas","universityDate":"2019-2022",
+    {
+      "id": "2",
+      "title": "Server side administration",
+      "description": "Whether your backend services suffer from inefficiency or you're looking to migrate your existing application to the cloud."
+    }
+  ],
+  "aboutpara": "A motivated individual with in-depth knowledge of languages and development tools ready to provide cleints with design and software engineering they desire.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, Mobile and web application developer.",
+    "description": "Providing clients with software solutions using the latest technology stack",
+    "experiences": [
+      {
+        "id": "78",
+        "dates": "Mar 2023 - Present",
+        "type": "Full Time",
+        "position": "Software Developer II at Paycom Payroll",
+        "bullets": "Debugged tested and wrote maintainable and extensible code in legacy code environment in PHP MVC framework as well as modern React,   Maintained modules used by 12000+ clients globally using the MVC framework as well as wrote and maintained complex SQL queries, Collaborated with a team of 6 and QA to fix 20+ bugs in respective modules and heed to the company's code policy"
+      },
+      {
+        "id": "1",
+        "dates": "Jun 2021 - Feb 2023",
+        "type": "Full Time",
+        "position": "Software Engineer at Vizio",
+        "bullets": "Wrote maintainable and extensible code in a team environment,  Design embedded systems software by applying key principles of computer science engineering and mathematical analysis, Tested debugged and released firmware for ARM-based TV chipsets and accompanying applications"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "Dec 2020 - Jul 2021",
+        "type": "Full Time internship",
+        "position": "Data Engineer at University of North Texas",
+        "bullets": "Increased accuracy of Sequence prediction of the dataset by 19% with a new algorithm, cleaned and improvised input data of 300,000+ rows with data analysis techniques, Identified and corrected errors in a JAVA android application that other interns had trouble fixing"
+      },
+      {
+        "id": "15",
+        "dates": "May 2020 - Nov 2020",
+        "type": "Full-time internship",
+        "position": "System Analyst",
+        "bullets": "Identified over 800 inactive service accounts and revoked their access from TetraPak servers, which resulted in a more secure system, 35% improvement in time complexity and 42% improvement in space complexity of a script that runs every 8 hours by introducing a hashing method, eliminated a security vulnerability by creating an automated script that cross-checks two user databases to identify and report orphaned user accounts"
+      }
+    ],
 
-"universityPara":"Computer Science\n 3.5 GPA\nCyber Security and Blockchain Developer certificate signed by NSA and DHS\n"},
-"languages":["Javascript","HTML5","CSS","Python","C/C++,Bash, Java"],"frameworks":["React", "React Native","Typescript","NodeJs"],"others":["SQL","Networking","Operating system and memory"]}}
+    "education": {
+      "universityName": "University Of North Texas",
+      "universityDate": "2017-2021",
+
+      "universityPara": "Computer Science\n 3.5 GPA\nCyber Security and Blockchain Developer certificate signed by NSA and DHS\n"
+    },
+    "languages": [
+      "Javascript",
+      "HTML5/CSS",
+      "Python",
+      "C/C++",
+      "Bash",
+      "PHP",
+      "SQL"
+    ],
+    "frameworks": [
+      "React",
+      "React Native",
+      "Next",
+      "Prisma",
+      "Typescript",
+      "NodeJs"
+    ],
+    "others": ["Git", "Jira", "Docker", "Linux", "Windows", "MacOs"]
+  }
+}
