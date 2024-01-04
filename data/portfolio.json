@@ -71,25 +71,25 @@
         "dates": "Mar 2023 - Present",
         "type": "Full Time",
         "position": "Software Developer II at Paycom Payroll",
-        "bullets": "Debugged tested and wrote maintainable and extensible code in legacy code environment in PHP MVC framework as well as modern React,   Maintained modules used by 12000+ clients globally using the MVC framework as well as wrote and maintained complex SQL queries, Collaborated with a team of 6 and QA to fix 20+ bugs in respective modules and heed to the company's code policy"
+        "bullets": "Debugged, tested, and wrote maintainable and extensible code in legacy code environment in PHP MVC framework as well as modern React,  Created and Maintained modules used by 12000+ clients globally using the MVC framework and SQL database, Collaborated with QA and devOps to fix 100+ critical and high priority bugs, put out hotfixes to our live site and implemented new development projects"
       },
       {
         "id": "1",
-        "dates": "Jun 2021 - Feb 2023",
+        "dates": "Jun 2019 - Feb 2023",
         "type": "Full Time",
         "position": "Software Engineer at Vizio",
         "bullets": "Wrote maintainable and extensible code in a team environment,  Design embedded systems software by applying key principles of computer science engineering and mathematical analysis, Tested debugged and released firmware for ARM-based TV chipsets and accompanying applications"
       },
       {
         "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-        "dates": "Dec 2020 - Jul 2021",
+        "dates": "Jan 2019 - Jul 2019",
         "type": "Full Time internship",
         "position": "Data Engineer at University of North Texas",
         "bullets": "Increased accuracy of Sequence prediction of the dataset by 19% with a new algorithm, cleaned and improvised input data of 300,000+ rows with data analysis techniques, Identified and corrected errors in a JAVA android application that other interns had trouble fixing"
       },
       {
         "id": "15",
-        "dates": "May 2020 - Nov 2020",
+        "dates": "May 2018 - Nov 2018",
         "type": "Full-time internship",
         "position": "System Analyst",
         "bullets": "Identified over 800 inactive service accounts and revoked their access from TetraPak servers, which resulted in a more secure system, 35% improvement in time complexity and 42% improvement in space complexity of a script that runs every 8 hours by introducing a hashing method, eliminated a security vulnerability by creating an automated script that cross-checks two user databases to identify and report orphaned user accounts"
@@ -98,7 +98,7 @@
 
     "education": {
       "universityName": "University Of North Texas",
-      "universityDate": "2017-2021",
+      "universityDate": "2015-2019",
 
       "universityPara": "Computer Science\n 3.5 GPA\nCyber Security and Blockchain Developer certificate signed by NSA and DHS\n"
     },
