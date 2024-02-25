@@ -7,7 +7,7 @@
   "showCursor": true,
   "showBlog": false,
   "darkMode": true,
-  "showResume": true,
+  "showResume": false,
   "socials": [
     { "id": "1", "title": "Github", "link": "https://github.com/takeovernat" },
     {
@@ -15,17 +15,15 @@
       "title": "LinkedIn",
       "link": "https://www.linkedin.com/in/natnael-teshome/"
     },
-    { "id": "3", "title": "Twitter", "link": "" },
-
     { "id": "5", "title": "Email", "link": "mailto:natnaelteshome9@gmail.com" }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Bank's Cuisine",
-      "description": "Web Design | react | tailwindCSS ",
-      "imageSrc": "https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg",
-      "url": ""
+      "title": "Valentine Template",
+      "description": "Web Design | react | CSS ",
+      "imageSrc": "https://thegraphicsfairy.com/wp-content/uploads/2014/01/Vintage-Cat-Valentine-GraphicsFairy.jpg",
+      "url": "https://takeovernat.github.io/valentineforbae/"
     },
     {
       "id": "6",
@@ -48,20 +46,18 @@
       "title": "Web Design",
       "description": "Build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
     },
-
     {
       "id": "4",
       "title": "Application Consultation",
       "description": "Assistance with Database Creation and Adminstartion, Mobile App development and application deployment."
     },
-
     {
       "id": "2",
       "title": "Server side administration",
       "description": "Whether your backend services suffer from inefficiency or you're looking to migrate your existing application to the cloud."
     }
   ],
-  "aboutpara": "A motivated individual with in-depth knowledge of languages and development tools ready to provide cleints with design and software engineering they desire.",
+  "aboutpara": "Bachelor-level educated, multilingual software engineer with a broad set of technical skills including design, testing, development and deployment. Love for learning new technologies and a passion for clean code.",
   "resume": {
     "tagline": "👋  I'm a software engineer, Mobile and web application developer.",
     "description": "Providing clients with software solutions using the latest technology stack",
@@ -95,11 +91,9 @@
         "bullets": "Identified over 800 inactive service accounts and revoked their access from TetraPak servers, which resulted in a more secure system, 35% improvement in time complexity and 42% improvement in space complexity of a script that runs every 8 hours by introducing a hashing method, eliminated a security vulnerability by creating an automated script that cross-checks two user databases to identify and report orphaned user accounts"
       }
     ],
-
     "education": {
       "universityName": "University Of North Texas",
       "universityDate": "2015-2019",
-
       "universityPara": "Computer Science\n 3.5 GPA\nCyber Security and Blockchain Developer certificate signed by NSA and DHS\n"
     },
     "languages": [
