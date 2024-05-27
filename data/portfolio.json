@@ -19,6 +19,13 @@
   ],
   "projects": [
     {
+      "id": "0",
+      "title": "React StoreFront",
+      "description": "Web Design | react | Tailwind CSS ",
+      "imageSrc": "https://st.depositphotos.com/1001877/3814/i/450/depositphotos_38143799-stock-photo-e-commerce-shopping-cart-with.jpg",
+      "url": "https://takeovernat.github.io/React-shop-front/"
+    },
+    {
       "id": "1",
       "title": "Valentine Template",
       "description": "Web Design | react | CSS ",
@@ -32,6 +39,7 @@
       "imageSrc": "https://images.pexels.com/photos/4439444/pexels-photo-4439444.jpeg",
       "url": ""
     },
+
     {
       "id": "8",
       "title": "Resume Builder",
